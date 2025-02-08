@@ -64,7 +64,8 @@ ul {
   color: #404bbf;
 }
 
-.hero-bg .ws-bottom-bg {
+.hero-bg,
+.ws-bottom-bg {
   background: #2e2f42;
 }
 
