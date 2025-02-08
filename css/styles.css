@@ -52,7 +52,7 @@ ul {
 
   line-height: 1.5; /* line-height: 24px; */
   letter-spacing: 0.02em;
-  /* color: #434455; */
+  color: #434455;
 }
 
 .contact-item:hover,
@@ -110,4 +110,46 @@ ul {
   line-height: 1.5; /* line-height: 24px; */
   letter-spacing: 0.02em;
   /* color: #434455; */
+}
+
+.team {
+  background: #f4f4fd;
+}
+
+.title-text {
+  /* font-family: "Roboto", sans-serif; */
+  font-weight: 700;
+  font-size: 36px;
+
+  line-height: 1.11; /* line-height: 40px; */
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+.team-card {
+  background: #fff;
+}
+
+.team-name {
+  /* font-family: "Roboto", sans-serif; */
+  font-weight: 500;
+  font-size: 20px;
+
+  line-height: 1.2; /* line-height: 24px; */
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.team-position {
+  /* font-family: "Roboto", sans-serif; */
+  font-weight: 400;
+  font-size: 16px;
+
+  line-height: 1.5; /* line-height: 24px; */
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
 }
