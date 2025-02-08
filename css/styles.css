@@ -52,7 +52,7 @@ ul {
 
   line-height: 1.5; /* line-height: 24px; */
   letter-spacing: 0.02em;
-  color: #434455;
+  /* color: #434455; */
 }
 
 .contact-item:hover,
@@ -61,9 +61,6 @@ ul {
 }
 
 .hero {
-  /* width: 1440px; */
-  /* height: 600px; */
-
   background: #2e2f42;
 }
 
@@ -112,5 +109,5 @@ ul {
 
   line-height: 1.5; /* line-height: 24px; */
   letter-spacing: 0.02em;
-  color: #434455;
+  /* color: #434455; */
 }
